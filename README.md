@@ -1,4 +1,4 @@
-# mySVU Grade Notifier
+# myCP Grade Notifier
 A web scraper that periodically scraped myCP for your grades and notified you if there were changes.
 
 This was created as there was no way to be notified if a grade was updated on the learning management system Cal Poly was using during my early years there.
